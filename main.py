@@ -6,7 +6,7 @@ import fnmatch
 
 my_dir = 'E:\\OneDrive\\Apps\\Google'
 dest_dir = 'D:\\PICTURES'
-matches = ['.jpg', '.jpeg', '.mp4', '.mov', '.arw', '.heic', '.avi', '.3gp', ',nef']
+matches = ['.jpg', '.jpeg', '.mp4', '.mov', '.arw', '.heic', '.avi', '.3gp', ',nef', '.png', '.cr2']
 
 
 # Iterate all files in a directory
@@ -25,7 +25,7 @@ def iterate_sub_dir(path):
         for item in fnmatch.filter(files, "*"):
             item_path = os.path.join(root, item)
             index += 1
-            print('File No.%s :' % index)
+            print('File No.%s : %s' % (index, item_path))
             yield item_path
 
 
@@ -36,6 +36,17 @@ def unique(path):
         path = base + " (" + str(counter) + ")" + extn
         counter += 1
     return path
+
+
+def if_exist_add_index(f_name, ori_dir, dest_dir):
+    if not os.path.exists(os.path.join(dest_dir, f_name)):
+        # os.rename(f_name)
+        shutil.move(os.path.join(ori_dir, f_name), dest_dir)
+    else:
+        n_name = os.path.basename(unique(os.path.join(dest_dir, f_name)))
+        # n_name=os.path.basename
+        os.rename(f_name, n_name)
+        shutil.move(os.path.join(ori_dir, n_name), dest_dir)
 
 
 for filename in iterate_sub_dir(my_dir):
@@ -56,15 +67,17 @@ for filename in iterate_sub_dir(my_dir):
                 f.close()
                 # Check if EXIF does not have EXIF DateTimeOriginal property -> skipped, move to Unclassified folder
                 if 'EXIF DateTimeOriginal' not in str(exif):
+                    print('This file DOESN\'T has tags DateTimeOriginal -> moved to Unclassified folder')
                     if not os.path.exists(os.path.join(dest_dir, 'Unclassified')):
                         # Check if Unclassified folder not exist -> create
                         os.mkdir(os.path.join(dest_dir, 'Unclassified'))
                         # Move the none DateTimeOriginal file to Unclassified folder
-                        print('%s NOT has tags DateTimeOriginal -> moved to Unclassified folder' % filename)
                         shutil.move(os.path.join(my_dir, filename), os.path.join(dest_dir, 'Unclassified'))
                     else:
                         # Move the none DateTimeOriginal file to Unclassified folder if folder Unclassified was created
-                        shutil.move(filename, os.path.join(dest_dir, 'Unclassified'))
+                        # shutil.move(filename, os.path.join(dest_dir, 'Unclassified'))
+                        if_exist_add_index(filename, os.path(my_dir), os.path.join(dest_dir, 'Unclassified'))
+                        print('This file EXIST in destination folder but it was indexed')
                     continue
                 # Check if EXIF has EXIF DateTimeOriginal property -> proceed
                 print('%s has tags DateTimeOriginal' % filename)
@@ -113,4 +126,3 @@ for filename in iterate_sub_dir(my_dir):
         except Exception as e:
             print('EXCEPTION!!!')
             print(e)
-
