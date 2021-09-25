@@ -7,6 +7,7 @@ import fnmatch
 my_dir = 'E:\\OneDrive\\Apps\\Google'
 dest_dir = 'D:\\PICTURES'
 matches = ['.jpg', '.jpeg', '.mp4', '.mov', '.arw', '.heic', '.avi', '.3gp', ',nef', '.png', '.cr2']
+logFile = open('log_main.txt', 'w', 'utf8')
 
 
 # Iterate all files in a directory
@@ -25,7 +26,7 @@ def iterate_sub_dir(path):
         for item in fnmatch.filter(files, "*"):
             item_path = os.path.join(root, item)
             index += 1
-            print('File No.%s : %s' % (index, item_path))
+            print('File No.%s : %s' % (index, item_path), file=logFile)
             yield item_path
 
 
@@ -58,7 +59,7 @@ for filename in iterate_sub_dir(my_dir):
                 os.mkdir(dest_dir)
             # Check if file extension not supported -> skipped
             if not extension.lower() in matches:
-                print(filename + ' has unsupported extension %s -> skipped' % extension)
+                print(filename + ' has unsupported extension %s -> skipped' % extension, file=logFile, file=logFile)
                 continue
             # If file extension is supported -> proceed
             else:
@@ -67,7 +68,7 @@ for filename in iterate_sub_dir(my_dir):
                 f.close()
                 # Check if EXIF does not have EXIF DateTimeOriginal property -> skipped, move to Unclassified folder
                 if 'EXIF DateTimeOriginal' not in str(exif):
-                    print('This file DOESN\'T has tags DateTimeOriginal -> moved to Unclassified folder')
+                    print('This file DOESN\'T has tags DateTimeOriginal -> moved to Unclassified folder', file=logFile)
                     if not os.path.exists(os.path.join(dest_dir, 'Unclassified')):
                         # Check if Unclassified folder not exist -> create
                         os.mkdir(os.path.join(dest_dir, 'Unclassified'))
@@ -77,10 +78,10 @@ for filename in iterate_sub_dir(my_dir):
                         # Move the none DateTimeOriginal file to Unclassified folder if folder Unclassified was created
                         # shutil.move(filename, os.path.join(dest_dir, 'Unclassified'))
                         if_exist_add_index(filename, os.path(my_dir), os.path.join(dest_dir, 'Unclassified'))
-                        print('This file EXIST in destination folder but it was indexed')
+                        print('This file EXIST in destination folder but it was indexed', file=logFile)
                     continue
                 # Check if EXIF has EXIF DateTimeOriginal property -> proceed
-                print('%s has tags DateTimeOriginal' % filename)
+                print('%s has tags DateTimeOriginal' % filename, file=logFile)
                 # Get EXIF DateTimeOriginal value
                 exif_date = exif['EXIF DateTimeOriginal']
                 # Convert into a time object
@@ -96,33 +97,34 @@ for filename in iterate_sub_dir(my_dir):
                 # Check if paths are not exist -> create
                 if not os.path.exists(PATH):
                     os.mkdir(PATH)
-                    print('Made new dir YEAR %s successful' % PATH)
+                    print('Made new dir YEAR %s successful' % PATH, file=logFile)
                 elif not os.path.exists(PATH_FULL):
                     os.mkdir(PATH_FULL)
-                    print('Made new dir MONTH %s successful' % PATH_FULL)
+                    print('Made new dir MONTH %s successful' % PATH_FULL, file=logFile)
                 else:
                     # If paths are created -> proceed
-                    print(PATH_FULL + ' is OK')
+                    print(PATH_FULL + ' is OK', file=logFile)
                     # Rename the file to new name
                     os.rename(os.path.join(my_dir, filename), os.path.join(my_dir, new_name))
-                    print('File %s changed name to %s ' % (filename, new_name))
+                    print('File %s changed name to %s ' % (filename, new_name), file=logFile)
                     # Check if new name is not exist in destination folder -> move
                     if not os.path.exists(os.path.join(PATH_FULL, new_name)):
-                        print('File %s NOT EXIST in %s ' % (new_name, PATH_FULL))
+                        print('File %s NOT EXIST in %s ' % (new_name, PATH_FULL), file=logFile)
                         shutil.move(os.path.join(my_dir, new_name), PATH_FULL)
-                        print('Moved %s to %s successful' % (new_name, PATH_FULL))
+                        print('Moved %s to %s successful' % (new_name, PATH_FULL), file=logFile)
                     else:
                         # If new name is exist in destination folder -> add index in new name
-                        print('File %s is EXIST in %s' % (new_name, PATH_FULL))
+                        print('File %s is EXIST in %s' % (new_name, PATH_FULL), file=logFile)
                         new_name_tmp = unique(os.path.join(PATH_FULL, new_name))
                         new_name_index = os.path.basename(new_name_tmp)
-                        print('Added index for %s to %s : ' % (new_name, new_name_index))
+                        print('Added index for %s to %s : ' % (new_name, new_name_index), file=logFile)
                         # Rename new file with index
                         os.rename(os.path.join(my_dir, new_name), os.path.join(my_dir, new_name_index))
                         # Move new file with index to destination folder
                         shutil.move(os.path.join(my_dir, new_name_index), PATH_FULL)
-                        print('Moved %s to %s successful' % (new_name_index, PATH_FULL))
-                    print('------------------------------------------------------------')
+                        print('Moved %s to %s successful' % (new_name_index, PATH_FULL), file=logFile)
+                    print('=' * 50, file=logFile)
         except Exception as e:
-            print('EXCEPTION!!!')
-            print(e)
+            print('EXCEPTION!!!', file=logFile)
+            print(e, file=logFile)
+logFile.close()
