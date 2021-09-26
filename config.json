@@ -1,0 +1,21 @@
+{
+  "ori_dir": "E:\\OneDrive\\Apps\\Google",
+  "dest_dir": "D:\\PICTURES",
+  "unclassified_dir": "Unclassified",
+  "unsupported_dir": "Unsupported",
+  "list_file_support": [
+    ".jpg",
+    ".jpeg",
+    ".mp4",
+    ".mov",
+    ".arw",
+    ".heic",
+    ".avi",
+    ".3gp",
+    ".nef",
+    ".png",
+    ".cr2",
+    ".mpg",
+    ".mpeg"
+  ]
+}
