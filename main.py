@@ -3,11 +3,18 @@ import os
 import time
 import shutil
 import fnmatch
+from datetime import datetime
 
+now = datetime.now()
+year = now.strftime("%Y")
+month = now.strftime("%m")
+day = now.strftime("%d")
+time = now.strftime("%H%M%S")
+f_time = year + month + day + '_' + time
 my_dir = 'E:\\OneDrive\\Apps\\Google'
 dest_dir = 'D:\\PICTURES'
-matches = ['.jpg', '.jpeg', '.mp4', '.mov', '.arw', '.heic', '.avi', '.3gp', ',nef', '.png', '.cr2']
-logFile = open('log_main.txt', 'w', 'utf8')
+matches = ['.jpg', '.jpeg', '.mp4', '.mov', '.arw', '.heic', '.avi', '.3gp', ',nef', '.png', '.cr2', '.mpg', '.mpeg']
+logFile = open(file='log_main%s.txt' % str(f_time), mode='w', encoding='utf8')
 
 
 # Iterate all files in a directory
@@ -59,7 +66,7 @@ for filename in iterate_sub_dir(my_dir):
                 os.mkdir(dest_dir)
             # Check if file extension not supported -> skipped
             if not extension.lower() in matches:
-                print(filename + ' has unsupported extension %s -> skipped' % extension, file=logFile, file=logFile)
+                print(filename + ' has unsupported extension %s -> skipped' % extension, file=logFile)
                 continue
             # If file extension is supported -> proceed
             else:
