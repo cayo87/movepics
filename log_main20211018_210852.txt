@@ -1,0 +1,146 @@
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (1).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (1).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_111352.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (10).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (10).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_120306.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (11).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (11).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_120311.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (12).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (12).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_120325.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (13).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (13).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_120328.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (14).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (14).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_120332.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (15).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (15).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_120335.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (16).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (16).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_120340.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (17).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (17).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_120347.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (18).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (18).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_120350.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (19).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (19).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_121141.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (2).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (2).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_111357.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (20).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (20).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_121200.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (21).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (21).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_121210.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (22).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (22).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_121212.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (23).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (23).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_121325.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (24).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (24).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_121348.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (25).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (25).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_121348.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (26).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (26).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_121349.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (27).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (27).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_121353.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (28).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (28).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_151115.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (29).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (29).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_151117.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (3).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (3).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_112417.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (30).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (30).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_151504.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (31).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (31).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_151709.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (32).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (32).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_151712.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (33).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (33).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_151715.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (34).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (34).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_151716.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (35).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (35).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_151722.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (36).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (36).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_151850.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (4).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (4).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_113052.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (5).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (5).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_115638.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (6).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (6).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_120226.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (7).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (7).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_120228.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (8).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (8).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_120237.JPG'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (9).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+EXCEPTION!!!
+[WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (9).JPG' -> 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\20191016_120248.JPG'
+EXCEPTION!!!
+cannot identify image file 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t.MP4'

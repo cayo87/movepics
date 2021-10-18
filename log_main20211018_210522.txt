@@ -1,0 +1,74 @@
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'
+EXCEPTION!!!
+bad mode 'rb'

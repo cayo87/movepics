@@ -1,0 +1,2 @@
+EXCEPTION!!!
+cannot identify image file 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\DJI_0145 (1) (1).MP4'

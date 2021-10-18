@@ -1,0 +1,2 @@
+EXCEPTION!!!
+unsupported operand type(s) for +: 'dict' and 'str'

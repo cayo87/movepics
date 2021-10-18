@@ -1,0 +1,74 @@
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'
+EXCEPTION!!!
+open() missing 1 required positional argument: 'fp'

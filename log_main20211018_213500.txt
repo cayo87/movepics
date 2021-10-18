@@ -1,0 +1,266 @@
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (1).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (1).JPG changed name to 20191016_111352.JPG 
+File 20191016_111352.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_111352.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (10).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (10).JPG changed name to 20191016_120306.JPG 
+File 20191016_120306.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_120306.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (11).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (11).JPG changed name to 20191016_120311.JPG 
+File 20191016_120311.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_120311.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (12).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (12).JPG changed name to 20191016_120325.JPG 
+File 20191016_120325.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_120325.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (13).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (13).JPG changed name to 20191016_120328.JPG 
+File 20191016_120328.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_120328.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (14).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (14).JPG changed name to 20191016_120332.JPG 
+File 20191016_120332.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_120332.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (15).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (15).JPG changed name to 20191016_120335.JPG 
+File 20191016_120335.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_120335.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (16).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (16).JPG changed name to 20191016_120340.JPG 
+File 20191016_120340.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_120340.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (17).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (17).JPG changed name to 20191016_120347.JPG 
+File 20191016_120347.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_120347.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (18).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (18).JPG changed name to 20191016_120350.JPG 
+File 20191016_120350.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_120350.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (19).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (19).JPG changed name to 20191016_121141.JPG 
+File 20191016_121141.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_121141.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (2).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (2).JPG changed name to 20191016_111357.JPG 
+File 20191016_111357.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_111357.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (20).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (20).JPG changed name to 20191016_121200.JPG 
+File 20191016_121200.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_121200.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (21).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (21).JPG changed name to 20191016_121210.JPG 
+File 20191016_121210.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_121210.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (22).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (22).JPG changed name to 20191016_121212.JPG 
+File 20191016_121212.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_121212.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (23).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (23).JPG changed name to 20191016_121325.JPG 
+File 20191016_121325.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_121325.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (24).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (24).JPG changed name to 20191016_121348.JPG 
+File 20191016_121348.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_121348.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (25).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (25).JPG changed name to 20191016_121348.JPG 
+File 20191016_121348.JPG is EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10
+Added index for 20191016_121348.JPG to 20191016_121348 (1).JPG : 
+Moved 20191016_121348 (1).JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (26).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (26).JPG changed name to 20191016_121349.JPG 
+File 20191016_121349.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_121349.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (27).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (27).JPG changed name to 20191016_121353.JPG 
+File 20191016_121353.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_121353.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (28).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (28).JPG changed name to 20191016_151115.JPG 
+File 20191016_151115.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_151115.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (29).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (29).JPG changed name to 20191016_151117.JPG 
+File 20191016_151117.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_151117.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (3).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (3).JPG changed name to 20191016_112417.JPG 
+File 20191016_112417.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_112417.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (30).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (30).JPG changed name to 20191016_151504.JPG 
+File 20191016_151504.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_151504.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (31).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (31).JPG changed name to 20191016_151709.JPG 
+File 20191016_151709.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_151709.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (32).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (32).JPG changed name to 20191016_151712.JPG 
+File 20191016_151712.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_151712.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (33).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (33).JPG changed name to 20191016_151715.JPG 
+File 20191016_151715.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_151715.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (34).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (34).JPG changed name to 20191016_151716.JPG 
+File 20191016_151716.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_151716.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (35).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (35).JPG changed name to 20191016_151722.JPG 
+File 20191016_151722.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_151722.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (36).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (36).JPG changed name to 20191016_151850.JPG 
+File 20191016_151850.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_151850.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (4).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (4).JPG changed name to 20191016_113052.JPG 
+File 20191016_113052.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_113052.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (5).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (5).JPG changed name to 20191016_115638.JPG 
+File 20191016_115638.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_115638.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (6).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (6).JPG changed name to 20191016_120226.JPG 
+File 20191016_120226.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_120226.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (7).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (7).JPG changed name to 20191016_120228.JPG 
+File 20191016_120228.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_120228.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (8).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (8).JPG changed name to 20191016_120237.JPG 
+File 20191016_120237.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_120237.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+C:\Users\cayo87\PycharmProjects\movepics\TEST\t (9).JPG has tags DateTimeOriginal
+C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 is OK
+File C:\Users\cayo87\PycharmProjects\movepics\TEST\t (9).JPG changed name to 20191016_120248.JPG 
+File 20191016_120248.JPG NOT EXIST in C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 
+Moved 20191016_120248.JPG to C:\Users\cayo87\PycharmProjects\movepics\DEST\2019\10 successful
+==================================================
+This file DOESN'T has tags DateTimeOriginal -> moved to Unclassified folder
+EXCEPTION!!!
+[Errno 2] No such file or directory: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t (1).MP4'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.gitignore has unsupported extension  -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\COPYING.BSD has unsupported extension .BSD -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\COPYING.GPL has unsupported extension .GPL -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\exiftool.py has unsupported extension .py -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\MANIFEST.in has unsupported extension .in -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\README.rst has unsupported extension .rst -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\setup.py has unsupported extension .py -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\config has unsupported extension  -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\description has unsupported extension  -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\HEAD has unsupported extension  -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\index has unsupported extension  -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\packed-refs has unsupported extension  -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\hooks\applypatch-msg.sample has unsupported extension .sample -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\hooks\commit-msg.sample has unsupported extension .sample -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\hooks\fsmonitor-watchman.sample has unsupported extension .sample -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\hooks\post-update.sample has unsupported extension .sample -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\hooks\pre-applypatch.sample has unsupported extension .sample -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\hooks\pre-commit.sample has unsupported extension .sample -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\hooks\pre-merge-commit.sample has unsupported extension .sample -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\hooks\pre-push.sample has unsupported extension .sample -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\hooks\pre-rebase.sample has unsupported extension .sample -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\hooks\pre-receive.sample has unsupported extension .sample -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\hooks\prepare-commit-msg.sample has unsupported extension .sample -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\hooks\push-to-checkout.sample has unsupported extension .sample -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\hooks\update.sample has unsupported extension .sample -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\info\exclude has unsupported extension  -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\logs\HEAD has unsupported extension  -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\logs\refs\heads\master has unsupported extension  -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\logs\refs\remotes\origin\HEAD has unsupported extension  -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\objects\pack\pack-1f483c1ec4f7b523601e27f0491ccd6a063944d9.idx has unsupported extension .idx -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\objects\pack\pack-1f483c1ec4f7b523601e27f0491ccd6a063944d9.pack has unsupported extension .pack -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\refs\heads\master has unsupported extension  -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\.git\refs\remotes\origin\HEAD has unsupported extension  -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\build\lib\exiftool.py has unsupported extension .py -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\doc\.gitignore has unsupported extension  -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\doc\conf.py has unsupported extension .py -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\doc\index.rst has unsupported extension .rst -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\doc\Makefile has unsupported extension  -> skipped
+This file DOESN'T has tags DateTimeOriginal -> moved to Unclassified folder
+EXCEPTION!!!
+[Errno 2] No such file or directory: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\rose (1).jpg'
+This file DOESN'T has tags DateTimeOriginal -> moved to Unclassified folder
+EXCEPTION!!!
+[Errno 2] No such file or directory: 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\skyblue (1).png'
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\test\test_exiftool.py has unsupported extension .py -> skipped
+C:\Users\cayo87\PycharmProjects\movepics\TEST\pyexiftool\test\__init__.py has unsupported extension .py -> skipped

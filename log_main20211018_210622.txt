@@ -1,0 +1,74 @@
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+getexif() takes 1 positional argument but 2 were given
+EXCEPTION!!!
+cannot identify image file 'C:\\Users\\cayo87\\PycharmProjects\\movepics\\TEST\\t.MP4'

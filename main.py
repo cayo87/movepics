@@ -1,5 +1,4 @@
 import json
-
 import exifread
 import os
 import time
@@ -16,15 +15,20 @@ with open('config.json', "r") as jsonfile:
     unsupported_dir = data['unsupported_dir']
     list_file_support = data['list_file_support']
 
+if not os.path.exists(dest_dir):
+    os.mkdir(dest_dir)
+if not os.path.exists(unclassified_dir):
+    os.mkdir(unclassified_dir)
+if not os.path.exists(unsupported_dir):
+    os.mkdir(unsupported_dir)
+
 for filename in utils.iterate_sub_dir(ori_dir):
     with open(filename, 'rb') as f:
         try:
             extension = os.path.splitext(filename)[1]
-            # Check if destination directory not exist -> create
-            if not os.path.exists(dest_dir):
-                os.mkdir(dest_dir)
             # Check if file extension not supported -> skipped
-            if not extension.lower() in list_file_support:
+            # if not extension.lower() in list_file_support:
+            if not utils.check_file_ext(filename, list_file_support):
                 print(filename + ' has unsupported extension %s -> skipped' % extension, file=logFile)
                 continue
             # If file extension is supported -> proceed

@@ -49,5 +49,7 @@ def check_file_ext(f_path, l_support):
     ext = os.path.splitext(f_path)[1]
     if not ext.lower() in l_support:
         return False
+        print('FALSE')
     else:
         return True
+        print('TRUE')

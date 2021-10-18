@@ -1,0 +1,28 @@
+This file DOESN'T has tags DateTimeOriginal -> moved to Unclassified folder
+C:\Users\cayo87\PycharmProjects\movepics\TEST\_DSC2187.JPG has tags DateTimeOriginal
+EXCEPTION!!!
+name 'extension' is not defined
+C:\Users\cayo87\PycharmProjects\movepics\TEST\_DSC2188.JPG has tags DateTimeOriginal
+EXCEPTION!!!
+name 'extension' is not defined
+C:\Users\cayo87\PycharmProjects\movepics\TEST\_DSC2200.JPG has tags DateTimeOriginal
+EXCEPTION!!!
+name 'extension' is not defined
+C:\Users\cayo87\PycharmProjects\movepics\TEST\_DSC2221.JPG has tags DateTimeOriginal
+EXCEPTION!!!
+name 'extension' is not defined
+C:\Users\cayo87\PycharmProjects\movepics\TEST\_DSC2253.JPG has tags DateTimeOriginal
+EXCEPTION!!!
+name 'extension' is not defined
+C:\Users\cayo87\PycharmProjects\movepics\TEST\_DSC2262.JPG has tags DateTimeOriginal
+EXCEPTION!!!
+name 'extension' is not defined
+C:\Users\cayo87\PycharmProjects\movepics\TEST\_DSC2263.JPG has tags DateTimeOriginal
+EXCEPTION!!!
+name 'extension' is not defined
+C:\Users\cayo87\PycharmProjects\movepics\TEST\_DSC2265.JPG has tags DateTimeOriginal
+EXCEPTION!!!
+name 'extension' is not defined
+C:\Users\cayo87\PycharmProjects\movepics\TEST\_DSC2267.JPG has tags DateTimeOriginal
+EXCEPTION!!!
+name 'extension' is not defined
